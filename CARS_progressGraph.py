@@ -13,8 +13,8 @@ from matplotlib import pyplot as plt
 # from datetime import datetime as dt
 
 def main():
-    x_times = [487, 440, 441, 470, 680, 590, 758]
-    y_scores = [5/6, 3/5, 3/5, 2/6, 3/7, 4/5, 5/6]
+    x_times = [487, 440, 441, 470, 680, 590, 758, 538, 595, 485]
+    y_scores = [5/6, 3/5, 3/5, 2/6, 3/7, 4/5, 5/6, 2/6, 2/7, 5/6]
     
     # Graph properties
     plt.figure(figsize=(8, 6))
